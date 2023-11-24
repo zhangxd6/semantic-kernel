@@ -47,6 +47,7 @@
     <ProjectReference Include="..\Plugins\Plugins.Web\Plugins.Web.csproj" />
     <ProjectReference Include="..\SemanticKernel.Core\SemanticKernel.Core.csproj" />
     <ProjectReference Include="..\Planners\Planners.Core\Planners.Core.csproj" />
+    <ProjectReference Include="..\Connectors\Connectors.AI.Ollama\Connectors.AI.Ollama.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Update="testsettings.json">
