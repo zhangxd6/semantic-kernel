@@ -18,5 +18,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\SemanticKernel.Core\SemanticKernel.Core.csproj" />
-  </ItemGroup>
+     <ProjectReference Include="..\..\Plugins\Plugins.Memory\Plugins.Memory.csproj" />
+ </ItemGroup>
 </Project>
